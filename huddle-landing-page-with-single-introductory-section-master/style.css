@@ -15,6 +15,10 @@ body {
   background-repeat: no-repeat;
 }
 
+main {
+  margin-bottom: 30px;
+}
+
 .content {
   display: flex;
   gap: 50px;
