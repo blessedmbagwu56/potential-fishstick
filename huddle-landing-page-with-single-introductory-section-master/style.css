@@ -48,7 +48,7 @@ a:link {
   font-size: 18px;
   color: hsl(257, 40%, 49%);
   border-radius: 50px;
-  transition: all 0.3s ;
+  transition: all 0.3s;
   border: none;
   box-shadow: 0 8px 30px rgba(0, 0, 0, 0.4);
 }
