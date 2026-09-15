@@ -42,7 +42,7 @@ p {
   font-size: 18px;
 }
 
-button {
+a:link {
   padding: 20px 82px;
   font-weight: 400;
   font-size: 18px;
@@ -56,7 +56,7 @@ button {
 .btn:hover,
 .btn:active,
 .btn:visited,
-.btn .button {
+.btn a:link {
   background-color: hsl(300, 69%, 71%);
   color: #fff;
   cursor: pointer;
